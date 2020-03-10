@@ -1,0 +1,9 @@
+Talent.Api/
+Talent.Common/
+Talent.Services.Identity/
+Talent.Services.Listing/
+Talent.Services.Profile/
+node_modules/
+obj/
+bin/
+debug/
